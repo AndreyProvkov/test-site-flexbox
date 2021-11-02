@@ -1,2 +1,4 @@
 # test-site-flexbox
-Learn project
+## Using technology
+- HTML
+- CSS
